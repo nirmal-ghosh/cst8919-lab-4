@@ -6,15 +6,15 @@ Name: Nirmal Ghosh
 
 Task 1: Prepare Ubuntu Server
 
-![](Aspose.Words.b97a40c9-447b-4042-8838-f3fae4b7d50e.001.png)
+![](picture1.png)
 
 Task 2: Install Grafana 
 
-![](Aspose.Words.b97a40c9-447b-4042-8838-f3fae4b7d50e.002.png)
+![](picture2.png)
 
 Grafana step 2: 
 
-![](Aspose.Words.b97a40c9-447b-4042-8838-f3fae4b7d50e.003.png)
+![](picture3.png)
 
 Task 3: Install Monitor agent
 
@@ -24,19 +24,19 @@ Task 3: Install Monitor agent
 
 3\.2 import Microsoft repository key
 
-![](Aspose.Words.b97a40c9-447b-4042-8838-f3fae4b7d50e.005.png)
+![](picture5.png)
 
 3\.3 Add azure monitor agent repository
 
-![](Aspose.Words.b97a40c9-447b-4042-8838-f3fae4b7d50e.006.png)
+![](picture6.png)
 
 3\.4 install azure cli
 
-![](Aspose.Words.b97a40c9-447b-4042-8838-f3fae4b7d50e.007.png)
+![](picture7.png)
 
 Task 4 : Connect Grafana to azure monitor 
 
-![](Aspose.Words.b97a40c9-447b-4042-8838-f3fae4b7d50e.008.png)
+![](picture8.png)
 
 **Report**
 **
@@ -48,7 +48,7 @@ In the new tenant, I could create app registrations, but I could not assign user
 
 The second time I tried to deploy the Grafana dashboard to an online Linux VM in azure hoping it would bypass the restrictions, but that did not work either. I found the documentation on how to connect the azure monitor to the Grafana dashboard within Grafana official website. I’ve provided a snapshot of the same below: 
 
-![](Aspose.Words.b97a40c9-447b-4042-8838-f3fae4b7d50e.009.png)
+![](picture9.png)
 
 In the new tenant, I don’t have a reader role and in the old tenant I don’t have permission to create app registrations. So I have submitted screenshots of all the steps that I could complete.
 
