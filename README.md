@@ -20,7 +20,7 @@ Task 3: Install Monitor agent
 
 3\.1 installing dependencies
 
-![](Aspose.Words.b97a40c9-447b-4042-8838-f3fae4b7d50e.004.png)
+![](picture4.png)
 
 3\.2 import Microsoft repository key
 
